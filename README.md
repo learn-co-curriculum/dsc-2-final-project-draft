@@ -33,7 +33,9 @@ The goal of your project is to query the database to get the data needed to perf
 
 **_Does discount amount have a statistically significant effect on the quantity of a product in an order? If so, at what level(s) of discount?_**
 
-In addition to answering this question with a hypothesis test, you will also need to come up with at least 1 other hypothesis to test on your own.  For this hypothesis, be sure to specify both the **_null hypothesis_** and the **_alternative hypothesis_** for your question.  You should also specify if this is one-tail or a two-tail test. 
+In addition to answering this question with a hypothesis test, you will also need to come up with **_at least 3 other hypotheses to test on your own_**.  These can by anything that you think could be imporant information for the company. 
+
+For this hypothesis, be sure to specify both the **_null hypothesis_** and the **_alternative hypothesis_** for your question.  You should also specify if this is one-tail or a two-tail test. 
 
 To complete this project, you will need to turn in the following 3 deliverables:
 
